@@ -1,0 +1,29 @@
+# Ambiente virtual
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+
+# Dados temporários
+*.csv
+*.parquet
+*.pkl
+
+# Logs
+*.log
+
+# Outputs de gráficos
+outputs/
